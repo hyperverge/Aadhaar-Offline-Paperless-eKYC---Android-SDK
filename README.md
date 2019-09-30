@@ -1,4 +1,4 @@
-##HyperVerge Aadhar Offline Android SDK
+## HyperVerge Aadhar Offline Android SDK
 
 This documentation has been moved to the following location:
 
